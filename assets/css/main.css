@@ -2882,6 +2882,15 @@ section,
   max-width: 500px;
 }
 
+.flex-center-row {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: fit-content;
+  max-width: 500px;
+}
+
 .heading-1 {
   font-weight: 800;
   font-size: 3em;
